@@ -40,7 +40,7 @@
 ### Programming & Web Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="HTML CSS JavaScript Python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" alt="HTML CSS JavaScript Python java" />
 </p>
 
 ### Development Tools
