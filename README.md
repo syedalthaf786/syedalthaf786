@@ -60,14 +60,29 @@ A full-stack travel and tourism application focused on destination discovery and
 
 ## 📊 GitHub Statistics
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedalthaf786&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedalthaf786&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=syedalthaf786&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedalthaf786&layout=compact&theme=transparent&hide_border=true"
+    alt="Top Languages"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=syedalthaf786&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=syedalthaf786&theme=transparent&hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="70%"
+  />
 </p>
+
 
 ---
 
