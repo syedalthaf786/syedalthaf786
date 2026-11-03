@@ -98,12 +98,18 @@ A full-stack travel and tourism application focused on destination discovery and
 
 ## 🤝 Connect With Me
 
+
+## 🤝 Connect With Me
+
 <p align="left">
+  <a href="https://shaikalthaf.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel" />
+  </a>
   <a href="https://www.linkedin.com/in/althaf-shaik-802b04258">
-    <img src="https://img.shields.io/badge/LinkedIn-S_Althaf-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/syedalthaf786">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
