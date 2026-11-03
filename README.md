@@ -1,6 +1,8 @@
-                                          # Hi there, I'm S ALTHAF 👋
+  <div align="center">
 
-<h3 align="center">
+# Hi there, I'm S ALTHAF 👋
+
+</div><h3 align="center">
   Software Developer | Full Stack Java Developer | System Administrator
 </h3>
 
