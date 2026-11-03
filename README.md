@@ -4,6 +4,12 @@
 <h3 align="center">Aspiring Full Stack Developer | Open Source Enthusiast</h3>
 
 <p align="center">
+  <a href="https://shaikalthaf.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Passionate+About+Web+Development;Building+Real+World+Projects;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
@@ -95,8 +101,6 @@ A full-stack travel and tourism application focused on destination discovery and
 - Build meaningful applications and contribute to the developer community.
 
 ---
-
-## 🤝 Connect With Me
 
 
 ## 🤝 Connect With Me
